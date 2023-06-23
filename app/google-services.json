@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430713575476",
+    "project_id": "media-player-ad887",
+    "storage_bucket": "media-player-ad887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430713575476:android:c66da37acb4cf9116a5261",
+        "android_client_info": {
+          "package_name": "com.example.mediaplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430713575476-fcg1ec99k4beg7d8u7jq4q6n1odjlg60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpt_NwgK2-qDj4t7c_F1Xm1MMTkjQzIF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430713575476-fcg1ec99k4beg7d8u7jq4q6n1odjlg60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
